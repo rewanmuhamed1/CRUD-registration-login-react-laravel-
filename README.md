@@ -9,7 +9,7 @@
 ![](images/pic4.PNG)
 ![](images/pic5.PNG)
 ![](images/pic6.PNG)
-* role [ admin // user  ] *
+__role [ admin // user  ]__
 ![](images/pic7.PNG)
 ![](images/pic8.PNG)
 ![](images/pic9.PNG)
