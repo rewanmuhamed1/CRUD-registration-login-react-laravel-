@@ -1,7 +1,7 @@
 # CRUD-registration-login-react-laravel-
-# npm run div 
-# php artisan migrate
-# php artisan serve
+#npm run div 
+#php artisan migrate
+#php artisan serve
 
 ![](images/pic1.PNG)
 ![](images/pic2.PNG)
