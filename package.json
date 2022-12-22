@@ -25,7 +25,7 @@
         "sass-loader": "^7.1.0"
     },
     "dependencies": {
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "jwt-decode": "^2.2.0",
         "react-js-pagination": "^3.0.2",
         "react-jwt-auth": "^0.6.0",
